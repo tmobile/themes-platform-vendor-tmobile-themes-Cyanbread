@@ -118,6 +118,12 @@
     <item name="drawable/icon_highlight_rectangle">@drawable/frameworks_res_icon_highlight_rectangle</item>
     <item name="drawable/icon_highlight_square">@drawable/frameworks_res_icon_highlight_square</item>
     <item name="drawable/title_bar">@drawable/frameworks_res_title_bar</item>
+    <item name="drawable/title_bar_portrait">@drawable/frameworks_res_title_bar</item>
+    <item name="drawable/title_bar_medium">@drawable/frameworks_res_title_bar_medium</item>
+    <item name="drawable/title_bar_tall">@drawable/frameworks_res_title_bar_tall</item>
+    <item name="drawable/bottom_bar">@drawable/frameworks_res_bottom_bar</item>
+    <item name="drawable/activity_title_bar">@drawable/frameworks_res_title_bar</item>
+    <item name="drawable/bottombar_565">@drawable/frameworks_res_bottom_bar</item>
     <item name="drawable/tab_press_bar_left">@drawable/frameworks_res_tab_press_bar_left</item>
     <item name="drawable/tab_focus_bar_left">@drawable/frameworks_res_tab_focus_bar_left</item>
     <item name="drawable/tab_press_bar_right">@drawable/frameworks_res_tab_press_bar_right</item>

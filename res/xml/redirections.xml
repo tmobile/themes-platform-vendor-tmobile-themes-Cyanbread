@@ -59,4 +59,12 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_android_systemui" />
 
+    <package-redirections android:name="com.android.mms"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_mms" />
+
+    <package-redirections android:name="com.android.browser"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_browser" />
+
 </theme-redirections>

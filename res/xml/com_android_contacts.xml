@@ -37,4 +37,5 @@
     <item name="drawable/btn_circle_disable_focused">@drawable/com_android_contacts_btn_circle_disable_focused</item>
     <item name="drawable/btn_circle_pressed">@drawable/com_android_contacts_btn_circle_pressed</item>
     <item name="drawable/btn_circle_selected">@drawable/com_android_contacts_btn_circle_selected</item>
+    <item name="drawable/ic_launcher_phone">@drawable/com_android_phone_ic_launcher_phone</item>
 </resource-redirections>
