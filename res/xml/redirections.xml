@@ -79,4 +79,8 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_android_inputmethod_latin" />
 
+    <package-redirections android:name="com.cooliris.media"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_cooliris_media" />
+
 </theme-redirections>
