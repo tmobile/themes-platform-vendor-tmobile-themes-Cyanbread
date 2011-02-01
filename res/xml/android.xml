@@ -164,4 +164,12 @@
     <item name="drawable/stat_sys_battery_40">@drawable/frameworks_res_stat_sys_battery_40</item>
     <item name="drawable/status_bar_item_background_focus">@drawable/frameworks_res_status_bar_item_background_focus</item>
     <item name="drawable/status_bar_item_background_pressed">@drawable/frameworks_res_status_bar_item_background_pressed</item>
+    <item name="drawable/textfield_search_pressed">@drawable/frameworks_res_textfield_search_pressed</item>
+    <item name="drawable/textfield_search_empty_pressed">@drawable/frameworks_res_textfield_search_empty_pressed</item>
+    <item name="drawable/btn_search_dialog_pressed">@drawable/frameworks_res_btn_search_dialog_pressed</item>
+    <item name="drawable/btn_search_dialog_voice_pressed">@drawable/frameworks_res_btn_search_dialog_voice_pressed</item>
+    <item name="drawable/btn_search_dialog_selected">@drawable/frameworks_res_btn_search_dialog_selected</item>
+    <item name="drawable/btn_search_dialog_voice_selected">@drawable/frameworks_res_btn_search_dialog_voice_selected</item>
+    <item name="drawable/textfield_search_selected">@drawable/frameworks_res_textfield_search_selected</item>
+    <item name="drawable/textfield_search_empty_selected">@drawable/frameworks_res_textfield_search_empty_selected</item>
 </resource-redirections>
