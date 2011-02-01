@@ -18,4 +18,5 @@
 <resource-redirections>
     <item name="drawable/buttonbar_focused">@drawable/frameworks_res_tab_focus</item>
     <item name="drawable/buttonbar_pressed">@drawable/frameworks_res_tab_press</item>
+    <item name="drawable/app_video">@drawable/com_android_music_app_video</item>
 </resource-redirections>
