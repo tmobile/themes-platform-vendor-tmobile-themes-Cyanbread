@@ -67,4 +67,16 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_android_browser" />
 
+    <package-redirections android:name="com.android.providers.downloads.ui"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_providers_downloads_ui" />
+
+    <package-redirections android:name="com.android.calendar"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_calendar" />
+
+    <package-redirections android:name="com.android.inputmethod.latin"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_inputmethod_latin" />
+
 </theme-redirections>
