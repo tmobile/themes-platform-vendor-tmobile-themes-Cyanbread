@@ -73,6 +73,6 @@
     <item name="drawable/ic_home_arrows_6_press">@drawable/com_android_launcher_ic_home_arrows_6_press</item>
     <item name="color/apps3d_glow_pressed">@color/launcher_glow_pressed</item>
     <item name="color/apps3d_glow_focused">@color/launcher_glow_focused</item>
-
-
+    <item name="drawable/quickaction_slider_btn_pressed">@drawable/com_android_contacts_quickcontact_slider_btn_pressed</item>
+    <item name="drawable/quickaction_slider_btn_selected">@drawable/com_android_contacts_quickcontact_slider_btn_selected</item>
 </resource-redirections>
