@@ -75,6 +75,10 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_android_calendar" />
 
+    <package-redirections android:name="com.android.settings"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_settings" />
+
     <package-redirections android:name="com.android.inputmethod.latin"
         android:minSdkVersion="7"
         android:resource="@xml/com_android_inputmethod_latin" />
