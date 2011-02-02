@@ -38,6 +38,10 @@
     <item name="drawable/appwidget_inner_press_c">@drawable/com_android_music_appwidget_inner_press_c</item>
     <item name="drawable/appwidget_inner_press_l">@drawable/com_android_music_appwidget_inner_press_l</item>
     <item name="drawable/appwidget_inner_press_r">@drawable/com_android_music_appwidget_inner_press_r</item>
+    <item name="drawable/appwidget_inner_focus_ll">@drawable/com_android_music_appwidget_inner_focus_ll</item>
+    <item name="drawable/appwidget_inner_focus_lr">@drawable/com_android_music_appwidget_inner_focus_lr</item>
+    <item name="drawable/appwidget_inner_press_ll">@drawable/com_android_music_appwidget_inner_press_ll</item>
+    <item name="drawable/appwidget_inner_press_lr">@drawable/com_android_music_appwidget_inner_press_lr</item>
     <item name="drawable/ic_mp_album_playback">@drawable/com_android_music_ic_mp_album_playback</item>
     <item name="drawable/ic_mp_artist_playback">@drawable/com_android_music_ic_mp_artist_playback</item>
     <item name="drawable/ic_mp_partyshuffle_on_btn">@drawable/com_android_music_ic_mp_partyshuffle_on_btn</item>
