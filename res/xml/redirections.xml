@@ -99,4 +99,8 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_google_android_apps_genie_geniewidget" />
 
+    <package-redirections android:name="net.cactii.flash2"
+        android:minSdkVersion="7"
+        android:resource="@xml/net_cactii_flash2" />
+
 </theme-redirections>
