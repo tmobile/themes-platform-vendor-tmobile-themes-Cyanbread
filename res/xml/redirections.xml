@@ -87,4 +87,8 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_cooliris_media" />
 
+    <package-redirections android:name="com.google.android.talk"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_talk" />
+
 </theme-redirections>
