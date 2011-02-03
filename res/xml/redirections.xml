@@ -91,4 +91,8 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_google_android_talk" />
 
+    <package-redirections android:name="com.google.android.gm"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_gm" />
+
 </theme-redirections>
