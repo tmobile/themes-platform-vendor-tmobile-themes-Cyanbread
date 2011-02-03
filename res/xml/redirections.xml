@@ -79,6 +79,10 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_android_settings" />
 
+    <package-redirections android:name="com.android.quicksearchbox"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_quicksearchbox" />
+
     <package-redirections android:name="com.android.inputmethod.latin"
         android:minSdkVersion="7"
         android:resource="@xml/com_android_inputmethod_latin" />
@@ -102,6 +106,10 @@
     <package-redirections android:name="com.google.android.carhome"
         android:minSdkVersion="7"
         android:resource="@xml/com_google_android_carhome" />
+
+    <package-redirections android:name="com.google.android.googlequicksearchbox"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_googlequicksearchbox" />
 
     <package-redirections android:name="net.cactii.flash2"
         android:minSdkVersion="7"
