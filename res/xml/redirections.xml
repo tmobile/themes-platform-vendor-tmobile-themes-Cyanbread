@@ -75,6 +75,10 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_android_calendar" />
 
+    <package-redirections android:name="com.android.providers.calendar"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_providers_calendar" />
+
     <package-redirections android:name="com.android.settings"
         android:minSdkVersion="7"
         android:resource="@xml/com_android_settings" />
