@@ -95,4 +95,8 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_google_android_gm" />
 
+    <package-redirections android:name="com.google.android.apps.genie.geniewidget"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_apps_genie_geniewidget" />
+
 </theme-redirections>
