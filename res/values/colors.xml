@@ -19,8 +19,8 @@
 -->
 
 <resources>
-	<drawable name="screen_background_light">#ffffffff</drawable>
-	<drawable name="screen_background_dark">#ff000000</drawable>
+    <drawable name="screen_background_light">#ffffffff</drawable>
+    <drawable name="screen_background_dark">#ff000000</drawable>
     <drawable name="status_bar_closed_default_background">#ff000000</drawable>
     <drawable name="status_bar_opened_default_background">#ff000000</drawable>
     <drawable name="search_bar_default_color">#ff000000</drawable>
