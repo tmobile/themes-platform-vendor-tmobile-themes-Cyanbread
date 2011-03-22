@@ -17,4 +17,5 @@
 
 <resource-redirections>
     <item name="drawable/pyramid_background">@drawable/wallpaper</item>
+    <item name="drawable/lookingglass_background">@drawable/city</item>
 </resource-redirections>
