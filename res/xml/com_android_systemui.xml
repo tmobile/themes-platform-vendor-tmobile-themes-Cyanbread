@@ -55,5 +55,5 @@
     <item name="drawable/stat_sys_data_fully_connected_1x">@drawable/com_android_systemui_stat_sys_data_fully_connected_1x</item>
     <item name="drawable/stat_inner_press">@drawable/com_android_systemui_stat_inner_press</item>
     <item name="drawable/stat_inner_focus">@drawable/com_android_systemui_stat_inner_focus</item>
-    <item name="drawable/title_bar_portrait">@drawable/com_android_systemui_title_bar_portrait</item>
+    <item name="drawable/title_bar_portrait">@drawable/dark_gradient</item>
 </resource-redirections>
